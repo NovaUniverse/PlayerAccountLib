@@ -1,0 +1,7 @@
+# The storage provider to use
+# Default is file
+StorageProvider: file
+
+# The name of the command used to manage your account
+# The default valus is "account"
+AccountCommandName: "account"

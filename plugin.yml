@@ -1,0 +1,7 @@
+main: net.novauniverse.playeraccountlib.PlayerAccountLib
+name: PlayerAccountLib
+description: This plugin allows players to create accounts that can be used together with NovaAPILib
+version: 1.0.0
+api-version: 1.13
+
+authors: [Zeeraa, NovaUniverse]
